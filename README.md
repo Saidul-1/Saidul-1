@@ -25,9 +25,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=saidul-1&label=Profile%20views&color=0e75b6&style=flat" alt="saidul-1" />  [![Codeforces](https://badges.joonhyung.xyz/codeforces/saidul_1.svg)](https://codeforces.com/profile/saidul_1) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidul-1&show_icons=true&locale=en&layout=compact" alt="saidul-1" /></p>
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=saidul_1)](https://codeforces.com/profile/saidul_1)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidul-1&show_icons=true&locale=en" alt="saidul-1" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidul-1&show_icons=true&locale=en&layout=compact" alt="saidul-1" /></p> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidul-1&show_icons=true&locale=en" alt="saidul-1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidul-1&" alt="saidul-1" /></p>
 <!--  -  I'm studing in Dept. of _Computer Science and Engineering_ at __University of Rajshahi__
